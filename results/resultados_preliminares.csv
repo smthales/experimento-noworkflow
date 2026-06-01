@@ -1,0 +1,19 @@
+script,categoria,modo,execucao,tempo_real_seg,memoria_kb,cpu_percentual
+numerico.py,Processamento numerico,tradicional,1,0.42,49256,580%
+numerico.py,Processamento numerico,tradicional,2,0.16,49528,1231%
+numerico.py,Processamento numerico,tradicional,3,0.15,49664,1094%
+numerico.py,Processamento numerico,noworkflow,1,2.98,151076,167%
+numerico.py,Processamento numerico,noworkflow,2,2.45,151048,199%
+numerico.py,Processamento numerico,noworkflow,3,2.50,151324,193%
+arquivos.py,Leitura e escrita de arquivos,tradicional,1,0.03,11904,66%
+arquivos.py,Leitura e escrita de arquivos,tradicional,2,0.02,11904,100%
+arquivos.py,Leitura e escrita de arquivos,tradicional,3,0.02,11904,87%
+arquivos.py,Leitura e escrita de arquivos,noworkflow,1,14.50,364508,63%
+arquivos.py,Leitura e escrita de arquivos,noworkflow,2,8.68,364716,91%
+arquivos.py,Leitura e escrita de arquivos,noworkflow,3,9.19,364724,89%
+ordenacao.py,Ordenacao e busca,tradicional,1,0.02,10368,54%
+ordenacao.py,Ordenacao e busca,tradicional,2,0.01,10368,92%
+ordenacao.py,Ordenacao e busca,tradicional,3,0.01,10496,93%
+ordenacao.py,Ordenacao e busca,noworkflow,1,5.06,254388,90%
+ordenacao.py,Ordenacao e busca,noworkflow,2,5.01,253932,92%
+ordenacao.py,Ordenacao e busca,noworkflow,3,5.13,254500,91%
