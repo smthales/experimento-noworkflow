@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+.noworkflow/
+scripts/.noworkflow/
+
+results/raw/
+*.log
+*.prof
+
+.vscode/
+.idea/
