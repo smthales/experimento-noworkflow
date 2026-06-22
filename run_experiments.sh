@@ -39,4 +39,23 @@ executar_noworkflow "arquivos.py" "Leitura e escrita de arquivos"
 executar_tradicional "ordenacao.py" "Ordenacao e busca"
 executar_noworkflow "ordenacao.py" "Ordenacao e busca"
 
+executar_tradicional "xgboost_classifier.py" "Classificação com XGBoost"
+executar_noworkflow "xgboost_classifier.py" "Classificação com XGBoost"
+
+executar_tradicional "xgboost_regressor.py" "Regressão com XGBoost"
+executar_noworkflow "xgboost_regressor.py" "Regressão com XGBoost"
+
+executar_tradicional "logistic_regression.py" "Regressão Logística"
+executar_noworkflow "logistic_regression.py" "Regressão Logística"
+
+executar_tradicional "bezier_curve.py" "Curvas de Bézier"
+executar_noworkflow "bezier_curve.py" "Curvas de Bézier"
+
+executar_tradicional "csv_to_excel.py" "Leitura e escrita de arquivos"
+executar_noworkflow "csv_to_excel.py" "Leitura e escrita de arquivos"
+
+executar_tradicional "csv_to_json.py" "Leitura e escrita de arquivos"
+executar_noworkflow "csv_to_json.py" "Leitura e escrita de arquivos"
+
+
 echo "Experimentos concluídos. Resultados salvos em $ARQUIVO_RESULTADOS"
