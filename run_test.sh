@@ -1,5 +1,4 @@
 #!/bin/bash
-
 mkdir -p results
 
 echo "script,categoria,modo,execucao,tempo_real_seg,memoria_kb,cpu_percentual" > results/teste_resultados.csv
