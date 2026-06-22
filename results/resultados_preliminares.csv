@@ -1,70 +1,34 @@
 script,categoria,modo,execucao,tempo_real_seg,memoria_kb,cpu_percentual
-numerico.py,Processamento numerico,tradicional,1,1.97,60480,73%
-numerico.py,Processamento numerico,tradicional,2,1.25,62008,96%
-numerico.py,Processamento numerico,tradicional,3,1.55,61644,80%
-numerico.py,Processamento numerico,noworkflow,1,41.74,146784,13%
-numerico.py,Processamento numerico,noworkflow,2,40.17,144712,13%
-numerico.py,Processamento numerico,noworkflow,3,42.52,146580,13%
-arquivos.py,Leitura e escrita de arquivos,tradicional,1,0.09,12044,30%
-arquivos.py,Leitura e escrita de arquivos,tradicional,2,0.09,12024,27%
-arquivos.py,Leitura e escrita de arquivos,tradicional,3,0.11,12080,30%
-arquivos.py,Leitura e escrita de arquivos,noworkflow,1,20.36,345540,50%
-arquivos.py,Leitura e escrita de arquivos,noworkflow,2,26.62,346696,41%
-arquivos.py,Leitura e escrita de arquivos,noworkflow,3,21.82,347044,50%
-ordenacao.py,Ordenacao e busca,tradicional,1,0.06,10244,17%
-ordenacao.py,Ordenacao e busca,tradicional,2,0.09,10208,21%
-ordenacao.py,Ordenacao e busca,tradicional,3,0.08,10164,20%
-ordenacao.py,Ordenacao e busca,noworkflow,1,19.24,236004,33%
-ordenacao.py,Ordenacao e busca,noworkflow,2,16.37,236624,35%
-ordenacao.py,Ordenacao e busca,noworkflow,3,14.76,236392,37%
-Command exited with non-zero status 1
-xgboost_classifier.py,Classificação com XGBoost,tradicional,1,1.32,28076,62%
-Command exited with non-zero status 1
-xgboost_classifier.py,Classificação com XGBoost,tradicional,2,1.35,27968,66%
-Command exited with non-zero status 1
-xgboost_classifier.py,Classificação com XGBoost,tradicional,3,1.76,27684,49%
-xgboost_classifier.py,Classificação com XGBoost,noworkflow,1,33.96,113056,12%
-xgboost_classifier.py,Classificação com XGBoost,noworkflow,2,37.46,113008,11%
-xgboost_classifier.py,Classificação com XGBoost,noworkflow,3,48.02,113648,11%
-Command exited with non-zero status 1
-xgboost_regressor.py,Regressão com XGBoost,tradicional,1,1.47,27820,59%
-Command exited with non-zero status 1
-xgboost_regressor.py,Regressão com XGBoost,tradicional,2,1.52,28076,56%
-Command exited with non-zero status 1
-xgboost_regressor.py,Regressão com XGBoost,tradicional,3,1.29,28180,67%
-xgboost_regressor.py,Regressão com XGBoost,noworkflow,1,41.49,112992,11%
-xgboost_regressor.py,Regressão com XGBoost,noworkflow,2,36.19,113168,12%
-xgboost_regressor.py,Regressão com XGBoost,noworkflow,3,36.04,113396,12%
-Command exited with non-zero status 1
-logistic_regression.py,Regressão Logística,tradicional,1,1.23,27884,70%
-Command exited with non-zero status 1
-logistic_regression.py,Regressão Logística,tradicional,2,1.82,28156,49%
-Command exited with non-zero status 1
-logistic_regression.py,Regressão Logística,tradicional,3,1.53,27904,57%
-logistic_regression.py,Regressão Logística,noworkflow,1,38.10,115436,11%
-logistic_regression.py,Regressão Logística,noworkflow,2,36.92,115568,12%
-logistic_regression.py,Regressão Logística,noworkflow,3,36.61,115388,12%
-Command exited with non-zero status 1
-bezier_curve.py,Curvas de Bézier,tradicional,1,0.07,9836,20%
-Command exited with non-zero status 1
-bezier_curve.py,Curvas de Bézier,tradicional,2,0.09,9720,20%
-Command exited with non-zero status 1
-bezier_curve.py,Curvas de Bézier,tradicional,3,0.12,9860,17%
-bezier_curve.py,Curvas de Bézier,noworkflow,1,13.32,89344,14%
-bezier_curve.py,Curvas de Bézier,noworkflow,2,9.88,89436,17%
-bezier_curve.py,Curvas de Bézier,noworkflow,3,11.26,89532,15%
-Command exited with non-zero status 1
-csv_to_excel.py,Leitura e escrita de arquivos,tradicional,1,0.08,9520,18%
-Command exited with non-zero status 1
-csv_to_excel.py,Leitura e escrita de arquivos,tradicional,2,0.10,9516,15%
-Command exited with non-zero status 1
-csv_to_excel.py,Leitura e escrita de arquivos,tradicional,3,0.12,9456,16%
-csv_to_excel.py,Leitura e escrita de arquivos,noworkflow,1,12.57,87252,13%
-csv_to_excel.py,Leitura e escrita de arquivos,noworkflow,2,10.98,87324,15%
-csv_to_excel.py,Leitura e escrita de arquivos,noworkflow,3,12.17,87364,14%
-csv_to_json.py,Leitura e escrita de arquivos,tradicional,1,0.12,10880,23%
-csv_to_json.py,Leitura e escrita de arquivos,tradicional,2,0.13,10900,25%
-csv_to_json.py,Leitura e escrita de arquivos,tradicional,3,0.17,10908,18%
-csv_to_json.py,Leitura e escrita de arquivos,noworkflow,1,10.83,87112,15%
-csv_to_json.py,Leitura e escrita de arquivos,noworkflow,2,12.73,87364,13%
-csv_to_json.py,Leitura e escrita de arquivos,noworkflow,3,13.02,87272,14%
+numerico.py,Processamento numerico,tradicional,1,0.18,61300,522%
+numerico.py,Processamento numerico,tradicional,2,0.27,61424,481%
+numerico.py,Processamento numerico,tradicional,3,0.18,60376,540%
+numerico.py,Processamento numerico,noworkflow,1,6.87,168912,107%
+numerico.py,Processamento numerico,noworkflow,2,3.36,161360,139%
+numerico.py,Processamento numerico,noworkflow,3,3.23,161392,141%
+arquivos.py,Leitura e escrita de arquivos,tradicional,1,0.03,12160,84%
+arquivos.py,Leitura e escrita de arquivos,tradicional,2,0.04,12100,80%
+arquivos.py,Leitura e escrita de arquivos,tradicional,3,0.03,12116,85%
+arquivos.py,Leitura e escrita de arquivos,noworkflow,1,17.18,363816,87%
+arquivos.py,Leitura e escrita de arquivos,noworkflow,2,16.86,362908,75%
+arquivos.py,Leitura e escrita de arquivos,noworkflow,3,13.42,362760,93%
+ordenacao.py,Ordenacao e busca,tradicional,1,0.02,10272,75%
+ordenacao.py,Ordenacao e busca,tradicional,2,0.02,10276,100%
+ordenacao.py,Ordenacao e busca,tradicional,3,0.02,10272,95%
+ordenacao.py,Ordenacao e busca,noworkflow,1,9.72,253664,69%
+ordenacao.py,Ordenacao e busca,noworkflow,2,8.29,253340,79%
+ordenacao.py,Ordenacao e busca,noworkflow,3,7.64,253272,90%
+xgboost_classifier.py,Classificação com XGBoost,tradicional,1,1.67,181620,223%
+xgboost_classifier.py,Classificação com XGBoost,tradicional,2,1.58,181836,210%
+xgboost_classifier.py,Classificação com XGBoost,tradicional,3,1.68,181816,208%
+xgboost_classifier.py,Classificação com XGBoost,noworkflow,1,14.41,357520,112%
+xgboost_classifier.py,Classificação com XGBoost,noworkflow,2,12.96,358092,115%
+xgboost_classifier.py,Classificação com XGBoost,noworkflow,3,13.60,355628,114%
+xgboost_regressor.py,Regressão com XGBoost,tradicional,1,1.97,159504,447%
+xgboost_regressor.py,Regressão com XGBoost,tradicional,2,1.77,161056,414%
+xgboost_regressor.py,Regressão com XGBoost,tradicional,3,3.56,159408,489%
+xgboost_regressor.py,Regressão com XGBoost,noworkflow,1,11.96,314168,143%
+xgboost_regressor.py,Regressão com XGBoost,noworkflow,2,11.14,314224,150%
+xgboost_regressor.py,Regressão com XGBoost,noworkflow,3,11.94,316148,149%
+logistic_regression.py,Regressão Logística,tradicional,1,3.86,151100,134%
+logistic_regression.py,Regressão Logística,tradicional,2,4.03,150264,133%
+logistic_regression.py,Regressão Logística,tradicional,3,3.89,150532,134%
