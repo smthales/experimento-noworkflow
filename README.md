@@ -109,6 +109,10 @@ O arquivo `resultado_experimento.csv` contém, para cada script:
 | `overhead_memoria_%` | Aumento percentual na memória |
 | `prov_mb` | Volume de proveniência gerado (MB) |
 
+## Disclaimer
+
+Parte dos scripts deste repositório e das análises de desempenho foram elaborados com o auxílio de **agentes de inteligência artificial**. Os códigos gerados por esses agentes foram **devidamente revisados** pelos autores durante a confecção dos experimentos, garantindo correção, adequação à metodologia e validade dos resultados apresentados.
+
 ## Repositório
 
 https://github.com/smthales/experimento-noworkflow
