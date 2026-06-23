@@ -1,0 +1,4 @@
+script,categoria,tempo_medio_tradicional,tempo_medio_noworkflow,overhead_tempo_percentual,memoria_media_tradicional_kb,memoria_media_noworkflow_kb,overhead_memoria_percentual,cpu_medio_tradicional_percentual,cpu_medio_noworkflow_percentual
+arquivos.py,Leitura e escrita de arquivos,0.0233,10.79,46142.86,11904.0,364649.33,2963.25,84.33,81.0
+numerico.py,Processamento numerico,0.2433,2.6433,986.3,49482.67,151149.33,205.46,968.33,186.33
+ordenacao.py,Ordenacao e busca,0.0133,5.0667,37900.0,10410.67,254273.33,2342.43,79.67,91.0
