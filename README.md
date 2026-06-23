@@ -111,7 +111,12 @@ O arquivo `resultado_experimento.csv` contém, para cada script:
 
 ## Disclaimer
 
-Parte dos scripts deste repositório e das análises de desempenho foram elaborados com o auxílio de **agentes de inteligência artificial**. Os códigos gerados por esses agentes foram **devidamente revisados** pelos autores durante a confecção dos experimentos, garantindo correção, adequação à metodologia e validade dos resultados apresentados.
+Parte dos scripts deste repositório e das análises de desempenho foram elaborados com o auxílio de **agentes de inteligência artificial**:
+
+- **ChatGPT** — geração de scripts
+- **Gemini** — correção de bugs e análises numéricas
+
+Os códigos gerados por esses agentes foram **devidamente revisados** pelos autores durante a confecção dos experimentos, garantindo correção, adequação à metodologia e validade dos resultados apresentados.
 
 ## Repositório
 
