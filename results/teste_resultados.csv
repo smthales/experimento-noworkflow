@@ -1,7 +1,0 @@
-script,categoria,modo,execucao,tempo_real_seg,memoria_kb,cpu_percentual
-teste.py,Validação,tradicional,1,0.23,9088,33%
-teste.py,Validação,tradicional,2,0.05,9216,96%
-teste.py,Validação,tradicional,3,0.05,9088,98%
-teste.py,Validação,noworkflow,1,227.80,6151944,81%
-teste.py,Validação,noworkflow,2,236.45,6151876,77%
-teste.py,Validação,noworkflow,3,253.65,6145172,74%
